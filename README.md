@@ -13,7 +13,7 @@ A simple calculator that adds two numbers using HTML, CSS, and JavaScript.
 - JavaScript
 
 ##  How to Run
-1. Clone the repository: [`https://github.com/Mikoy0626/calculator-app.git']
+1. Clone the repository: [`'https://github.com/Mikoy0626/calculator-app.git]
 2. Open `index.html` in a browser.
 
 ##  Learning Experience
